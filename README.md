@@ -1,2 +1,2 @@
-# This is a folder with media and other thingys
+# This is a folder with media and other stuff
 
